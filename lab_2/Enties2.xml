@@ -1,0 +1,15 @@
+﻿<Entities>
+	<Bees>
+		<Bee Id = "1" HoneyMlPerMonth ="250">
+			<Size LengthMm="10" WidthMm="15" WingLengthMm="20"> </Size>
+		</Bee>
+		<Bee Id = "2" HoneyMlPerMonth ="500">
+			<Size LengthMm="40" WidthMm="60" WingLengthMm="80"> </Size>
+		</Bee>
+	</Bees>
+	<Apiaries>
+		<Apiary Id="2" BeehiveCount="90" GrassHeightMm="75">
+			<Size LengthM="66" WidthM="88"> </Size>
+		</Apiary>
+	</Apiaries>
+</Entities>

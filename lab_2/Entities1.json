@@ -1,0 +1,62 @@
+﻿{
+  "Bees": [
+    {
+      "Id": 1,
+      "HoneyMlPerMonth": 250,
+      "Size": {
+        "LengthMm": 10,
+        "WidthMm": 15,
+        "WingLengthMm": 20
+      }
+    },
+    {
+      "Id": 1,
+      "HoneyMlPerMonth": 250,
+      "Size": {
+        "LengthMm": 10,
+        "WidthMm": 15,
+        "WingLengthMm": 20
+      }
+    }
+  ],
+  "Apiaries": [
+    {
+      "Id": 1,
+      "BeehiveCount": 50,
+      "GrassHeightMm": 45,
+      "Size": {
+        "LengthM": 50,
+        "WidthM": 70
+      }
+    },
+    {
+      "Id": 2,
+      "BeehiveCount": 90,
+      "GrassHeightMm": 75,
+      "Size": {
+        "LengthM": 66,
+        "WidthM": 88
+      }
+    }
+  ],
+  "Beehives": [
+    {
+      "Id": 1,
+      "HoneyCapacityMl": 0,
+      "Size": {
+        "LengthMm": 10,
+        "WidthMm": 15,
+        "HeightMm": 20
+      }
+    },
+    {
+      "Id": 2,
+      "HoneyCapacityMl": 2,
+      "Size": {
+        "LengthMm": 85,
+        "WidthMm": 95,
+        "HeightMm": 105
+      }
+    }
+  ]
+}
